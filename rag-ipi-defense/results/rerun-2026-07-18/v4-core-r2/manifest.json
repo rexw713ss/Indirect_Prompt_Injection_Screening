@@ -1,5 +1,7 @@
 {
   "created_at_utc": "2026-07-17T18:29:02.418506+00:00",
+  "repository_experiment_version": "v4",
+  "version_label_note": "Repository experiment version; not a BIPIA dataset release version.",
   "scope": "BIPIA response stage with supplied retrieved contexts; retriever recall not evaluated",
   "data": "D:\\TANET\\rag-ipi-defense\\data\\splits\\main_holdout_v4.jsonl",
   "selected_rows": 100,

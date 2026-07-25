@@ -27,6 +27,7 @@ newsqa-data-v1.csv
 # Research drafts / binary documents kept local unless explicitly requested
 *.docx
 *.pdf
+research plan/
 
 # Generated benchmark data and experiment outputs
 rag-ipi-defense/data/bipia/*.jsonl
